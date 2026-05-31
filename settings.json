@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "thecraftinghub.aternos.me:63727",
+    "port": 63727,
     "version": "1.21.1"
   },
   "position": {
